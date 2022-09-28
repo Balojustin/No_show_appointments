@@ -1,5 +1,5 @@
 # Investigating a dataset: No show appointments
-## by Folami Justin Balogun  
+## by Folami J. Balogun  
 
 ## Dataset
 This [dataset](https://www.kaggle.com/datasets/joniarroba/noshowappointments) contains information from over 100,000 medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A description of each column in the dataset is detailed below;
